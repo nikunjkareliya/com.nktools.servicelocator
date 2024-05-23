@@ -1,0 +1,14 @@
+{
+	"name": "com.nktools.service-locator",
+	"displayName": "Service Locator Package",
+	"version": "1.0.0",
+	"unity": "2021.3",
+	"author": "Nikunj Kareliya",
+	"description": "Core Utilities for Service Locator Design Pattern",
+	"dependencies": {
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/nikunjkareliya/com.nktools.servicelocator.git"
+	}
+}
